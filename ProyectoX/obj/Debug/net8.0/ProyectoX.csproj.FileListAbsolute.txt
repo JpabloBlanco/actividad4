@@ -103,3 +103,4 @@ C:\Users\Administrador\Desktop\Actividad4\ProyectoX\obj\Debug\net8.0\refint\Proy
 C:\Users\Administrador\Desktop\Actividad4\ProyectoX\obj\Debug\net8.0\ProyectoX.pdb
 C:\Users\Administrador\Desktop\Actividad4\ProyectoX\obj\Debug\net8.0\ProyectoX.genruntimeconfig.cache
 C:\Users\Administrador\Desktop\Actividad4\ProyectoX\obj\Debug\net8.0\ref\ProyectoX.dll
+C:\Users\Administrador\Desktop\Actividad4\ProyectoX\obj\Debug\net8.0\ProyectoX.sourcelink.json
